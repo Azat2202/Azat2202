@@ -1,6 +1,6 @@
 Я Азат всем привет! 
 
-![](https://komarev.com/ghpvc/?username=Azat2202)
+<!-- ![](https://komarev.com/ghpvc/?username=Azat2202) -->
 
 [telegram](t.me/Azat2202)
 
