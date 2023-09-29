@@ -5,7 +5,7 @@
 
 [Vk](vk.com/Azat2202)
 
-[Лабораторные работы 1 года](first%20year.md)
+## [Лабораторные работы 1 года](first%20year.md)
 
 ## Веб
 - [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/Azat2202/Web_lab1)
