@@ -19,7 +19,7 @@
 - [Лабораторная работа 6. Latex](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-6-Azat2202)
 
 ### ОПД
-- [Лабораторная работа 1. Основы UNIX команд](https://github.com/Azat2202/OPD_lab1)
+- [Лабораторная работа 1. Основы UNIX команд](https://docs.google.com/document/d/1fbeqpiKUHqRkdE_X2R_i6JZ9DbY6PGSH/edit?usp=drivesdk&ouid=106966922435353618308&rtpof=true&sd=true)
 - [Лабораторная работа 5. Асинхронный обмен](https://github.com/Azat2202/OPD_lab5)
 - [Лабораторная работа 6. Обмен по прерыванию](https://github.com/Azat2202/OPD_lab6)
 - [Лабораторная работа 7. Синтез команд БЭВМ](https://github.com/Azat2202/OPD_lab7)
