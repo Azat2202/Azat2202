@@ -9,6 +9,7 @@
 
 ## Веб
 - [Лабораторная работа 1. HTML+CSS+PHP+JS](https://github.com/Azat2202/Web_lab1)
+- [Лабораторная работа 2. Java Server Pages](https://github.com/Azat2202/Web_lab2)
 
 ## Языки программирования
 - [Лабораторная работа 1. Основы asm x64](https://gitlab.se.ifmo.ru/Azat222/assignment-1-io-library)
