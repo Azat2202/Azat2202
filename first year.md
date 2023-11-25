@@ -15,8 +15,8 @@
 - [Лабораторная работа 2. Синтез помехоустойчивого кода](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-2-Azat2202)
 - [Лабораторная работа 3. Регулярные выражения](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-3-Azat2202)
 - [Лабораторная работа 4. Парсер языков разметки](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-4-Azat2202)
-- [Лабораторная работа 5. Excel](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-5-Azat2202)
-- [Лабораторная работа 6. Latex](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-6-Azat2202)
+- [Лабораторная работа 5. Excel](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-5-Azat2202-1)
+- [Лабораторная работа 6. Latex](https://github.com/MakeCheerfulUpload/laboratornaya-rabota-5-Azat2202)
 
 ### ОПД
 - [Лабораторная работа 1. Основы UNIX команд](https://docs.google.com/document/d/1fbeqpiKUHqRkdE_X2R_i6JZ9DbY6PGSH/edit?usp=drivesdk&ouid=106966922435353618308&rtpof=true&sd=true)
