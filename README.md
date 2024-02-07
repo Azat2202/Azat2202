@@ -16,3 +16,7 @@
 
 ## Языки программирования
 - [Лабораторная работа 1. Основы asm x64](https://gitlab.se.ifmo.ru/Azat222/assignment-1-io-library)
+
+## Вычислительная математика
+- [Лабораторная работа 1. Метод итераций](https://github.com/Azat2202/CompMath_lab1)
+
